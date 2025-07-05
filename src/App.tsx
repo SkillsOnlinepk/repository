@@ -50,7 +50,7 @@ const sampleProducts: Product[] = [
     title: 'AI Portrait Collection',
     description: 'Realistic human portraits generated with advanced AI technology',
     price: 39.99,
-    image: 'https://images.pexels.com/photos/2379005/pexels-photo-23790005.jpeg',
+    image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg',
     category: 'image',
     tags: ['portrait', 'realistic', 'human', 'ai'],
     featured: false
@@ -60,7 +60,7 @@ const sampleProducts: Product[] = [
     title: 'Motion Graphics Loop',
     description: 'Seamless animated background with particle effects',
     price: 49.99,
-    image: 'IRVRHd2zSOeWT60vA7UerA.webp',
+    image: 'public/Whisk_451244db1d.jpg',
     category: 'video',
     tags: ['motion', 'animation', 'particles', 'loop'],
     featured: true
@@ -70,11 +70,13 @@ const sampleProducts: Product[] = [
     title: 'Fantasy Landscape',
     description: 'Mystical mountain range with magical aurora effects',
     price: 34.99,
-    image: '493845260_3242596865880746_1069289635162703473_n.jpg', 
+    image: '493845260_3242596865880746_1069289635162703473_n.jpg',
     category: 'image',
     tags: ['fantasy', 'landscape', 'mystical', 'aurora'],
     featured: false
   },
+  // Trigger Netlify rebuild
+
   {
     id: '6',
     title: 'AI Video Transition',
