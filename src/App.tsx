@@ -86,7 +86,6 @@ const sampleProducts: Product[] = [
     featured: false
   },
 
-  {
     id: '7',
     title: 'Digital Marketing',
     description: 'Professional digital marketing asset for online branding and advertising.',
@@ -95,7 +94,7 @@ const sampleProducts: Product[] = [
     category: 'image',
     tags: ['marketing', 'branding', 'ads'],
     featured: true
-  }
+},
   
 ];
 
