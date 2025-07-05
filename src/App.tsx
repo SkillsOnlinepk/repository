@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import FeaturedProducts from './components/FeaturedProducts';
@@ -30,7 +30,7 @@ const sampleProducts: Product[] = [
     title: 'Cyberpunk Cityscape',
     description: 'Futuristic neon-lit city with flying cars and holographic billboards',
     price: 29.99,
-    image: 'https://images.pexels.com/photos/2313013/pexels-photo-2313013.jpeg',
+    image: "/506612226_24233927859547883_3602496110225257906_n.jpg.jpg",
     category: 'image',
     tags: ['cyberpunk', 'city', 'neon', 'futuristic'],
     featured: true
@@ -84,7 +84,19 @@ const sampleProducts: Product[] = [
     category: 'video',
     tags: ['transition', 'morphing', 'abstract', 'smooth'],
     featured: false
+  },
+
+  {
+    id: '7',
+    title: 'Digital Marketing',
+    description: 'Professional digital marketing asset for online branding and advertising.',
+    price: 24.99,
+    image: '/506612226_24233927859547883_3602496110225257906_n.jpg', // Make sure this is the actual filename
+    category: 'image',
+    tags: ['marketing', 'branding', 'ads'],
+    featured: true
   }
+  
 ];
 
 function App() {
