@@ -80,7 +80,7 @@ const sampleProducts: Product[] = [
     title: 'AI Video Transition',
     description: 'Smooth morphing transition between abstract shapes',
     price: 59.99,
-    image: 'E1yOVI_EQ1KKdc7itODQLw.webp',
+    image: 'WhatsApp Image 2025-05-19 at 10.21.46_d0bbc703.jpg',
     category: 'video',
     tags: ['transition', 'morphing', 'abstract', 'smooth'],
     featured: false
