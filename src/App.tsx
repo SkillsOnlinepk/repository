@@ -60,7 +60,7 @@ const sampleProducts: Product[] = [
     title: 'Motion Graphics Loop',
     description: 'Seamless animated background with particle effects',
     price: 49.99,
-    image: 'public/Whisk_451244db1d.jpg',
+    image: 'Whisk_451244db1d.jpg',
     category: 'video',
     tags: ['motion', 'animation', 'particles', 'loop'],
     featured: true
