@@ -84,7 +84,19 @@ const sampleProducts: Product[] = [
     category: 'video',
     tags: ['transition', 'morphing', 'abstract', 'smooth'],
     featured: false
-  }
+  },
+{
+    id: '7',
+    title: 'Digital Marketing',
+    description: 'Professional digital marketing asset for online branding and advertising.',
+    price: 24.99,
+    image: '/506612226_24233927859547883_3602496110225257906_n.jpg', // Make sure this is the actual filename
+    category: 'image',
+    tags: ['marketing', 'branding', 'ads'],
+    featured: true
+  },
+
+  
 ];
 
 function App() {
