@@ -50,7 +50,7 @@ const sampleProducts: Product[] = [
     title: 'AI Portrait Collection',
     description: 'Realistic human portraits generated with advanced AI technology',
     price: 39.99,
-    image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg',
+    image: 'https://images.pexels.com/photos/2379005/pexels-photo-23790005.jpeg',
     category: 'image',
     tags: ['portrait', 'realistic', 'human', 'ai'],
     featured: false
