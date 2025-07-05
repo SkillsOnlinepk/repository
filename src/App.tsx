@@ -60,7 +60,7 @@ const sampleProducts: Product[] = [
     title: 'Motion Graphics Loop',
     description: 'Seamless animated background with particle effects',
     price: 49.99,
-    image: 'https://images.pexels.com/photos/2422913/pexels-photo-2422913.jpeg',
+    image: 'IRVRHd2zSOeWT60vA7UerA.webp',
     category: 'video',
     tags: ['motion', 'animation', 'particles', 'loop'],
     featured: true
@@ -70,7 +70,7 @@ const sampleProducts: Product[] = [
     title: 'Fantasy Landscape',
     description: 'Mystical mountain range with magical aurora effects',
     price: 34.99,
-    image: '493845260_3242596865880746_1069289635162703473_n.jpg',
+    image: '493845260_3242596865880746_1069289635162703473_n.jpg', 
     category: 'image',
     tags: ['fantasy', 'landscape', 'mystical', 'aurora'],
     featured: false
