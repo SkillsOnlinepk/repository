@@ -70,7 +70,7 @@ const sampleProducts: Product[] = [
     title: 'Fantasy Landscape',
     description: 'Mystical mountain range with magical aurora effects',
     price: 34.99,
-    image: 'https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg',
+    image: '493845260_3242596865880746_1069289635162703473_n.jpg',
     category: 'image',
     tags: ['fantasy', 'landscape', 'mystical', 'aurora'],
     featured: false
