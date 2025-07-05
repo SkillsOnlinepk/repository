@@ -75,6 +75,8 @@ const sampleProducts: Product[] = [
     tags: ['fantasy', 'landscape', 'mystical', 'aurora'],
     featured: false
   },
+  // Trigger Netlify rebuild
+
   {
     id: '6',
     title: 'AI Video Transition',
