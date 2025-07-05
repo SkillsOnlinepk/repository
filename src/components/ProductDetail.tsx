@@ -1,4 +1,3 @@
-import React from 'react';
 import { X, ShoppingCart, Star, Download, Share2 } from 'lucide-react';
 import { Product } from '../App';
 
